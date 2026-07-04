@@ -1,0 +1,31 @@
+{
+    "schemaVersion": 1,
+    "id": "lyrics-player",
+    "version": "${version}",
+    "name": "Lyrics Player",
+    "description": "在Minecraft中显示LRC歌词",
+    "authors": ["hanweifan", "Deepseek"],
+    "contact": {
+        "homepage": "https://github.com/hanweifan123456/lyrics_player-for-minecraft"
+    },
+    "license": "MIT",
+    "icon": "assets/lyrics-player/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.lyrics_player_fhwf.LyricsPlayer"
+        ],
+        "client": [
+            "com.lyrics_player_fhwf.client.LyricsPlayerClient"
+        ]
+    },
+    "mixins": [
+        "lyrics-player.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=${loader_version}",
+        "fabric-api": "*",
+        "minecraft": "${minecraft_version}",
+        "java": ">=17"
+    }
+}
