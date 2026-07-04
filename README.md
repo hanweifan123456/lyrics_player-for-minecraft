@@ -21,14 +21,14 @@ The imported LRC will be displayed in the list below
 
 Click on the LRC file in the list to click Load below to load it
 
-After loading, you can click Play, or exit the interface and press ↑ to play
+After loading, you can click Play, or exit the interface and press _↑_ to play
 After playing, the lyrics will appear in the comment bar
 
 In the module interface, press Stop or press _↑_ again to stop
 
-###I have almost no Java programming skills, so this project was generated using Deepseek. The code robustness is not strong, please forgive
+I have almost no Java programming skills, so this project was generated using Deepseek. The code robustness is not strong, please forgive
 
-
+Welcome anyone to submit issues
 ---
 
 ### 中文
@@ -43,10 +43,12 @@ In the module interface, press Stop or press _↑_ again to stop
 
 点击列表中的LRC文件可以点击下方的加载进行加载
 
-加载完成后可以点击播放，也可以退出界面按↑键进行播放
+加载完成后可以点击播放，也可以退出界面按 _↑_ 键进行播放
 
 播放后会在评论栏出现歌词
 
-模组界面按停止或再按一次_↑_停止
+模组界面按停止或再按一次 _↑_ 停止
 
-###本人几乎没有JAVA编程能力，所以本项目使用Deepseek生成，代码健壮性不强，请原谅
+本人几乎没有JAVA编程能力，所以本项目使用Deepseek生成，代码健壮性不强，请原谅
+
+欢迎任何人来提issues
