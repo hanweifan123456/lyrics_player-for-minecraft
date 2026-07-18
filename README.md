@@ -2,37 +2,6 @@
 
 <img width="1024" height="1024" alt="Note_Block-text" src="https://github.com/user-attachments/assets/c05dd6b6-f755-4cff-a4da-6469c6d86920" />
 
-## Language
-
-- [English](#english)
-- [中文](#中文)
-
----
-
-### English
-
-This project adds LRC lyric playback functionality to Minecraft
-
-You can open the MOD's main menu by pressing the shortcut key (default is the ';' key)
-
-After entering the absolute path of the LRC file in the input box, click import
-
-The imported LRC will be displayed in the list below
-
-Click on the LRC file in the list to click Load below to load it
-
-After loading, you can click Play, or exit the interface and press _↑_ to play
-After playing, the lyrics will appear in the comment bar
-
-In the module interface, press Stop or press _↑_ again to stop
-
-I have almost no Java programming skills, so this project was generated using Deepseek. The code robustness is not strong, please forgive
-
-Welcome anyone to submit issues
----
-
-### 中文
-
 这个项目为Minecraft添加了LRC歌词的播放功能
 
 你可以通过按快捷键(默认为';'键)来打开该MOD的主菜单
